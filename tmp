@@ -1,0 +1,1 @@
+<?xml version='1.0' encoding='US-ASCII'?><c:a xmlns:c="http://c" b="blah"><c:d /><e xmlns="http://d" /><wstxns1:f xmlns:wstxns1="http://e" /><wstxns2:g xmlns:wstxns2="http://f" c:chris="fry" />foo bar foobad char coming[&#x1024;]</c:a>
